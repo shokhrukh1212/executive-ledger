@@ -1,31 +1,32 @@
 https://executive-ledger-red.vercel.app
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Executive Ledger
 
-This is a Vite + React frontend for the Executive Ledger dashboard.
+Executive Ledger is an institutional-style fintech operations dashboard built for leadership teams that need a fast view of portfolio health, transaction flow, compliance posture, and operational performance.
 
-## Run Locally
+It presents high-density financial information in a single command center experience, combining executive KPIs, live transaction activity, analytics views, audit details, alerts, and operational settings.
 
-**Prerequisites:** Node.js 20+
+## What The Product Does
 
-1. Install dependencies: `npm install`
-2. Start the dev server: `npm run dev`
-3. Build for production: `npm run build`
+- Gives executives a real-time snapshot of capital, throughput, compliance backlog, and income performance.
+- Surfaces live transaction activity with searchable records and audit-friendly detail views.
+- Tracks operational signals through analytics panels, trend charts, and system intelligence summaries.
+- Centralizes oversight for reporting, notifications, data retention, and security-oriented settings.
 
-## Deploy To Vercel
+## Who It Is For
 
-The repo is configured for static deployment on Vercel with [vercel.json](/Users/Apple/Shokhrukh%20Karimov/startups/executive-ledger/vercel.json).
+- Founders and executive teams monitoring finance operations
+- Operations leaders responsible for transaction visibility
+- Compliance and audit stakeholders reviewing ledger activity
+- Product and analytics teams evaluating financial system performance
 
-1. Import the repository into Vercel.
-2. Set the project name to `executive-ledger`.
-3. Confirm the detected settings:
-   `Install Command`: `npm install`
-   `Build Command`: `npm run build`
-   `Output Directory`: `dist`
-4. Deploy.
+## Core Experience
 
-If the `executive-ledger` slug is available in your Vercel account, the default production URL will be `https://executive-ledger.vercel.app`.
+- Executive operations dashboard for at-a-glance decision making
+- Transaction monitoring with status, customer, amount, and audit trail data
+- Analytics workspace for throughput and performance trends
+- Settings and controls for operational policy management
+
+## Product Positioning
+
+Executive Ledger is designed as a premium internal-facing financial control surface: fast to scan, visually assertive, and structured around the needs of operators who care about signal, oversight, and execution quality rather than consumer-style banking workflows.
